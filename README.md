@@ -18,13 +18,10 @@
 Know me a bit <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-- 🔭 I’m currently working on C++ and python
-- 🌱 I’m currently learning Web devlopment, neural networks, Data Structures and Algorithms
-- 👯 I’m looking to collaborate on  Python Projects and basic Web dev
-- 🤔 I’m looking for help with neural networks and Web dev
-- ⚡️ My interests are Deep learning and app dev
+- 🔭 I’m currently working on Embedded linux and Embedded C
+- 🌱 I’m currently learning arm cortex M series programming
+- ⚡️ My interests are microprocessors and microcontrollers
 - 🍪 I also like listening to songs, reading books and astronomy
-- 😄 Pronouns - She/Her
 
 ---
 <p align="center">
