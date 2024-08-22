@@ -25,7 +25,6 @@ Know me a bit <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3
 - ⚡️ My interests are Deep learning and app dev
 - 🍪 I also like listening to songs, reading books and astronomy
 - 😄 Pronouns - She/Her
-- 🎵 Let's listen to songs together [Spotify](https://open.spotify.com/user/31mk5tbi6sqfiuutqj4uayiratlq)
 
 ---
 <p align="center">
